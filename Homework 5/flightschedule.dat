@@ -1,0 +1,21 @@
+1
+100,Boeing,737,100,1000,in
+0
+8
+1,Pilot,Pilot,available,12345,1000
+0
+2,CoPilot,CoPilot,available,1234,1000
+0
+3,Cabin3,Cabin,available,First Class
+0
+4,Cabin4,Cabin,available,Business Class
+0
+5,Cabin5,Cabin,on-leave,Economy Front
+0
+6,Cabin6,Cabin,available,Lead
+0
+7,Pilot2,Pilot,available,12345,10000
+0
+8,CoPilot2,CoPilot,available,1234,10000
+0
+0
